@@ -1,0 +1,96 @@
+000004f0333a7e1ae03be5b2e85c773fe079b00a7a149eb773a0cea15f4b9c55
+d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc
+1e0fffff
+CBlock(hash=000004f0333a7e1ae03be5b2e85c773fe079b00a7a149eb773a0cea15f4b9c55, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc, nTime=1392493430, nBits=1e0fffff, nNonce=1252991, vtx=1)
+  CTransaction(hash=d405c4541c, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d01042f436f6d65206f6e2e2e2e4f6e65206d696c6c696f6e2053706163656275636b733b20746861747320554e4641495221)
+    CTxOut(error)
+  vMerkleTree: d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc 
+000004f0333a7e1ae03be5b2e85c773fe079b00a7a149eb773a0cea15f4b9c55
+d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc
+1e0fffff
+CBlock(hash=000004f0333a7e1ae03be5b2e85c773fe079b00a7a149eb773a0cea15f4b9c55, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc, nTime=1392493430, nBits=1e0fffff, nNonce=1252991, vtx=1)
+  CTransaction(hash=d405c4541c, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d01042f436f6d65206f6e2e2e2e4f6e65206d696c6c696f6e2053706163656275636b733b20746861747320554e4641495221)
+    CTxOut(error)
+  vMerkleTree: d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc 
+68888d84594dbb7a702409c7c0be113129bb80c9cc32cf4aaeab878c5630b93e
+d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc
+CBlock(hash=68888d84594dbb7a702409c7c0be113129bb80c9cc32cf4aaeab878c5630b93e, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc, nTime=1374901773, nBits=1e0fffff, nNonce=1211565, vtx=1)
+  CTransaction(hash=d405c4541c, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d01042f436f6d65206f6e2e2e2e4f6e65206d696c6c696f6e2053706163656275636b733b20746861747320554e4641495221)
+    CTxOut(error)
+  vMerkleTree: d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc 
+000004f0333a7e1ae03be5b2e85c773fe079b00a7a149eb773a0cea15f4b9c55
+d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc
+1e0fffff
+CBlock(hash=000004f0333a7e1ae03be5b2e85c773fe079b00a7a149eb773a0cea15f4b9c55, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc, nTime=1392493430, nBits=1e0fffff, nNonce=1252991, vtx=1)
+  CTransaction(hash=d405c4541c, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d01042f436f6d65206f6e2e2e2e4f6e65206d696c6c696f6e2053706163656275636b733b20746861747320554e4641495221)
+    CTxOut(error)
+  vMerkleTree: d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc 
+68888d84594dbb7a702409c7c0be113129bb80c9cc32cf4aaeab878c5630b93e
+d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc
+CBlock(hash=68888d84594dbb7a702409c7c0be113129bb80c9cc32cf4aaeab878c5630b93e, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc, nTime=1374901773, nBits=1e0fffff, nNonce=1211565, vtx=1)
+  CTransaction(hash=d405c4541c, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d01042f436f6d65206f6e2e2e2e4f6e65206d696c6c696f6e2053706163656275636b733b20746861747320554e4641495221)
+    CTxOut(error)
+  vMerkleTree: d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc 
+11c218eeab3ba7b585e7b45dd0465ed99af183cec7de86a26f1565e05ec9ba3c
+d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc
+CBlock(hash=11c218eeab3ba7b585e7b45dd0465ed99af183cec7de86a26f1565e05ec9ba3c, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc, nTime=1296688602, nBits=207fffff, nNonce=3, vtx=1)
+  CTransaction(hash=d405c4541c, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d01042f436f6d65206f6e2e2e2e4f6e65206d696c6c696f6e2053706163656275636b733b20746861747320554e4641495221)
+    CTxOut(error)
+  vMerkleTree: d405c4541c676bc4932411381bab448023fbcaef413b21af0ee396a9bba407cc 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HamRadioCoin version v0.9.0.0-beta (Feb 18 2014, 16:28:33)
+Using OpenSSL version OpenSSL 1.0.1e 11 Feb 2013
+Startup time: 2014-02-19 20:27:43
+Default data directory C:\Users\user\AppData\Roaming\HamRadioCoin
+Using data directory C:\Users\user\AppData\Roaming\HamRadioCoin
+Using at most 125 connections (2048 file descriptors available)
+Using 4 threads for script verification
+init message: Verifying wallet...
+dbenv.open LogDir=C:\Users\user\AppData\Roaming\HamRadioCoin\database ErrorFile=C:\Users\user\AppData\Roaming\HamRadioCoin\db.log
+Bound to [::]:55538
+Bound to 0.0.0.0:55538
+init message: Loading block index...
+Opening LevelDB in C:\Users\user\AppData\Roaming\HamRadioCoin\blocks\index
+Opened LevelDB successfully
+Opening LevelDB in C:\Users\user\AppData\Roaming\HamRadioCoin\chainstate
+Opened LevelDB successfully
+LoadBlockIndexDB(): last block file = 0
+LoadBlockIndexDB(): transaction index disabled
+Initializing databases...
+Pre-allocating up to position 0x1000000 in blk00000.dat
+ERROR: CheckTransaction() : txout.nValue too high
+ERROR: CheckBlock() : CheckTransaction failed
+InvalidChainFound: invalid block=000004f0333a7e1ae03be5b2e85c773fe079b00a7a149eb773a0cea15f4b9c55  height=0  log2_work=20.000001  date=2014-02-15 19:43:50
+0000020b9d4db902554e1131eee9d0a016e201215b2fd6e7279e4321f99a3e15
+a887ab6f2204b79e5af2878efc78e5da804013f94f4e23cb73239b6abbf95ce4
+1e0fffff
+CBlock(hash=0000020b9d4db902554e1131eee9d0a016e201215b2fd6e7279e4321f99a3e15, ver=1, hashPrevBlock=0000000000000000000000000000000000000000000000000000000000000000, hashMerkleRoot=a887ab6f2204b79e5af2878efc78e5da804013f94f4e23cb73239b6abbf95ce4, nTime=1392946703, nBits=1e0fffff, nNonce=168193, vtx=1)
+  CTransaction(hash=a887ab6f22, ver=1, vin.size=1, vout.size=1, nLockTime=0)
+    CTxIn(COutPoint(0000000000, 4294967295), coinbase 04ffff001d01040953636f74636f696e21)
+    CTxOut(error)
+  vMerkleTree: a887ab6f2204b79e5af2878efc78e5da804013f94f4e23cb73239b6abbf95ce4 
