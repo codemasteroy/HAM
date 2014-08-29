@@ -186,14 +186,14 @@ void BitcoinGUI::createActions(bool fIsTestnet)
     overviewAction->setShortcut(QKeySequence(Qt::ALT + Qt::Key_1));
     tabGroup->addAction(overviewAction);
 
-    sendCoinsAction = new QAction(QIcon(":/icons/send"), tr("&Send Scots"), this);
-    sendCoinsAction->setStatusTip(tr("Transfer Scots to another Wallet"));
+    sendCoinsAction = new QAction(QIcon(":/icons/send"), tr("&Send HAM"), this);
+    sendCoinsAction->setStatusTip(tr("Transfer HAM to another Wallet"));
     sendCoinsAction->setToolTip(sendCoinsAction->statusTip());
     sendCoinsAction->setCheckable(true);
     sendCoinsAction->setShortcut(QKeySequence(Qt::ALT + Qt::Key_2));
     tabGroup->addAction(sendCoinsAction);
 
-    receiveCoinsAction = new QAction(QIcon(":/icons/receiving_addresses"), tr("&Receive Scots"), this);
+    receiveCoinsAction = new QAction(QIcon(":/icons/receiving_addresses"), tr("&Receive HAM"), this);
     receiveCoinsAction->setStatusTip(tr("Display your addresses for incoming transfers"));
     receiveCoinsAction->setToolTip(receiveCoinsAction->statusTip());
     receiveCoinsAction->setCheckable(true);
