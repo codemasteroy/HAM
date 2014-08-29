@@ -425,12 +425,12 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="+49"/>
         <source>Modify configuration options for HamRadioCoin</source>
-        <translation>Modifica configurazione opzioni per hamradiocoin</translation>
+        <translation>Modifica configurazione opzioni per HamRadioCoin</translation>
     </message>
     <message>
         <location line="+9"/>
         <source>Backup wallet to another location</source>
-        <translation>Backup portamonete in un&apos;altra locazione</translation>
+        <translation>Backup portamonete in un&apos;altra posizione</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -461,7 +461,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="-530"/>
         <source>Wallet</source>
-        <translation>Portamonete</translation>
+        <translation>Portafogli</translation>
     </message>
     <message>
         <location line="+101"/>
@@ -506,7 +506,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="+2"/>
         <source>Verify messages to ensure they were signed with specified HamRadioCoin addresses</source>
-        <translation>Verifica i messaggi per accertarsi che siano stati firmati con gli indirizzi HamRadioCoin specificati</translation>
+        <translation>Verifica i messaggi per accertarti che siano stati firmati con gli indirizzi HamRadioCoin specificati</translation>
     </message>
     <message>
         <location line="+28"/>
@@ -542,12 +542,12 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to HamRadioCoin network</source>
-        <translation><numerusform>%n connessione attiva alla rete HamRadioCoin</numerusform><numerusform>%n connessioni attive alla rete HamRadioCoin</numerusform></translation>
+        <translation>%n connessione(i) attiva(e) alla rete HamRadioCoin</translation>
     </message>
     <message>
         <location line="+22"/>
         <source>No block source available...</source>
-        <translation type="unfinished"/>
+        <translation>Nessuna fonte disponibile per il blocco...</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -567,17 +567,17 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message numerus="yes">
         <location line="+4"/>
         <source>%n day(s)</source>
-        <translation><numerusform>%n giorno</numerusform><numerusform>%n giorni</numerusform></translation>
+        <translation>%n giorno(i)</translation>
     </message>
     <message numerus="yes">
         <location line="+4"/>
         <source>%n week(s)</source>
-        <translation><numerusform>%n settimana</numerusform><numerusform>%n settimane</numerusform></translation>
+        <translation>%n settimana(e)</translation>
     </message>
     <message>
         <location line="+4"/>
         <source>%1 behind</source>
-        <translation type="unfinished"/>
+        <translation>%1 indietro</translation>
     </message>
     <message>
         <location line="+14"/>
@@ -587,7 +587,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="+2"/>
         <source>Transactions after this will not yet be visible.</source>
-        <translation type="unfinished"/>
+        <translation>Le transazioni successive a questa non saranno ancora visibili.</translation>
     </message>
     <message>
         <location line="+22"/>
@@ -607,7 +607,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="+70"/>
         <source>This transaction is over the size limit. You can still send it for a fee of %1, which goes to the nodes that process your transaction and helps to support the network. Do you want to pay the fee?</source>
-        <translation>Questa transazione è superiore al limite di dimensione. È comunque possibile inviarla con una commissione di %1, che va ai nodi che processano la tua transazione e contribuisce a sostenere la rete. Vuoi pagare la commissione?</translation>
+        <translation>Questa transazione è superiore al limite. È comunque possibile inviarla con una commissione di %1, che va ai nodi che processano la tua transazione e contribuisce a sostenere la rete. Vuoi pagare la commissione?</translation>
     </message>
     <message>
         <location line="-140"/>
@@ -622,7 +622,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="+113"/>
         <source>Confirm transaction fee</source>
-        <translation>Conferma compenso transazione</translation>
+        <translation>Conferma tariffa della transazione</translation>
     </message>
     <message>
         <location line="+8"/>
@@ -788,7 +788,7 @@ Indirizzo: %4
     <message>
         <location line="+1"/>
         <source>Start minimized</source>
-        <translation>Parti in icona
+        <translation>Avvia in icona
 </translation>
     </message>
     <message>
@@ -812,7 +812,7 @@ Indirizzo: %4
     <message>
         <location line="+6"/>
         <source>Optional transaction fee per kB that helps make sure your transactions are processed quickly. Most transactions are 1 kB.</source>
-        <translation type="unfinished"/>
+        <translation>La tariffa opzionale di transazione per kB assicura una maggior velocita&apos;. Molte transazioni sono in genere di 1 kB.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -857,7 +857,7 @@ Indirizzo: %4
     <message>
         <location line="+7"/>
         <source>Connect to the HamRadioCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Connettiti alla rete Bitcon attraverso un proxy SOCKS (ad esempio quando ci si collega via Tor)</translation>
+        <translation>Connettiti alla rete HamRadioCoin attraverso un proxy SOCKS (ad esempio quando ci si collega via Tor)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1004,7 +1004,7 @@ Indirizzo: %4
     <message>
         <location line="+29"/>
         <source>The supplied proxy address is invalid.</source>
-        <translation>L&apos;indirizzo proxy che hai fornito è invalido.</translation>
+        <translation>L&apos;indirizzo proxy che hai fornito non è valido.</translation>
     </message>
 </context>
 <context>
@@ -1072,7 +1072,7 @@ Indirizzo: %4
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start hamradiocoin: click-to-pay handler</source>
-        <translation type="unfinished"/>
+        <translation>Non posso avviare HamRadioCoin</translation>
     </message>
 </context>
 <context>
@@ -1187,7 +1187,7 @@ Indirizzo: %4
     <message>
         <location line="+23"/>
         <source>On testnet</source>
-        <translation>Nel testnet</translation>
+        <translation>Su testnet</translation>
     </message>
     <message>
         <location line="+23"/>
@@ -1207,7 +1207,7 @@ Indirizzo: %4
     <message>
         <location line="+23"/>
         <source>Last block time</source>
-        <translation>Ora dell blocco piu recente</translation>
+        <translation>Ora del blocco piu recente</translation>
     </message>
     <message>
         <location line="+52"/>
@@ -1272,7 +1272,7 @@ Indirizzo: %4
     <message>
         <location line="+1"/>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
-        <translation>Usa le frecce direzionali per navigare la cronologia, and &lt;b&gt;Ctrl-L&lt;/b&gt; per cancellarla.</translation>
+        <translation>Usa le frecce direzionali per navigare nella cronologia, e &lt;b&gt;Ctrl-L&lt;/b&gt; per cancellarla.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1302,7 +1302,7 @@ Indirizzo: %4
     <message>
         <location line="+3"/>
         <source>Add &amp;Recipient</source>
-        <translation>&amp;Aggiungi beneficiario</translation>
+        <translation>&amp;Aggiungi destinatario</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -1322,7 +1322,7 @@ Indirizzo: %4
     <message>
         <location line="+10"/>
         <source>123.456 BTC</source>
-        <translation>123,456 BTC</translation>
+        <translation>123.456 BTC</translation>
     </message>
     <message>
         <location line="+31"/>
@@ -1337,12 +1337,12 @@ Indirizzo: %4
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-59"/>
         <source>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</source>
-        <translation>&lt;b&gt;%1&lt;/b&gt; to %2 (%3)</translation>
+        <translation>&lt;b&gt;%1&lt;/b&gt; a %2 (%3)</translation>
     </message>
     <message>
         <location line="+5"/>
         <source>Confirm send coins</source>
-        <translation>Conferma la spedizione di hamradiocoin</translation>
+        <translation>Conferma la spedizione di HamRadioCoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1357,7 +1357,7 @@ Indirizzo: %4
     <message>
         <location line="+23"/>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>L&apos;indirizzo del beneficiario non è valido, per cortesia controlla.</translation>
+        <translation>L&apos;indirizzo del destinatario non è valido, per cortesia controlla.</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1387,7 +1387,7 @@ Indirizzo: %4
     <message>
         <location line="+5"/>
         <source>Error: The transaction was rejected. This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Errore: la transazione è stata rifiutata. Ciò accade se alcuni hamradiocoin nel portamonete sono stati già spesi, ad esempio se è stata usata una copia del file wallet.dat e i hamradiocoin sono stati spesi dalla copia ma non segnati come spesi qui.</translation>
+        <translation>Errore: la transazione è stata rifiutata. Ciò accade se alcuni HamRadioCoin nel portamonete sono stati già spesi, ad esempio se è stata usata una copia del file wallet.dat e gli HamRadioCoin sono stati spesi dalla copia ma non segnati come spesi qui.</translation>
     </message>
 </context>
 <context>
@@ -1446,7 +1446,7 @@ Indirizzo: %4
     <message>
         <location line="+7"/>
         <source>Remove this recipient</source>
-        <translation>Rimuovere questo beneficiario</translation>
+        <translation>Rimuovere questo destinatario</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
@@ -1469,7 +1469,7 @@ Indirizzo: %4
     <message>
         <location line="+6"/>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Puoi firmare messeggi con i tuoi indirizzi per dimostrare che sono tuoi. Fai attenzione a non firmare niente di vago, visto che gli attacchi di phishing potrebbero cercare di spingerti a mettere la tua firma su di loro. Firma solo dichiarazioni completamente dettagliate con cui sei d&apos;accordo.</translation>
+        <translation>Puoi firmare messaggi con i tuoi indirizzi per dimostrare che sono tuoi. Fai attenzione a non firmare niente di vago, visto che gli attacchi di phishing potrebbero cercare di spingerti a mettere la tua firma su di loro. Firma solo dichiarazioni completamente dettagliate con cui sei d&apos;accordo.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -1542,7 +1542,7 @@ Indirizzo: %4
     <message>
         <location line="+6"/>
         <source>Enter the signing address, message (ensure you copy line breaks, spaces, tabs, etc. exactly) and signature below to verify the message. Be careful not to read more into the signature than what is in the signed message itself, to avoid being tricked by a man-in-the-middle attack.</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Inserisci indirizzo di firma, messaggio (assicurati di copiare esattamente spazi, tab ecc.) e firma per verificare il messaggio.</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1690,7 +1690,7 @@ Indirizzo: %4
     <message numerus="yes">
         <location line="+7"/>
         <source>, broadcast through %n node(s)</source>
-        <translation><numerusform>, trasmesso attraverso %n nodo</numerusform><numerusform>, trasmesso attraverso %n nodi</numerusform></translation>
+        <translation><numerusform>, trasmesso attraverso %n nodo(i)</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -1743,7 +1743,7 @@ Indirizzo: %4
     <message numerus="yes">
         <location line="-102"/>
         <source>matures in %n more block(s)</source>
-        <translation><numerusform>matura in %n ulteriore blocco</numerusform><numerusform>matura in altri %n blocchi</numerusform></translation>
+        <translation><numerusform>matura in %n ulteriore blocco(i)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -1761,7 +1761,7 @@ Indirizzo: %4
     <message>
         <location line="-39"/>
         <source>Transaction fee</source>
-        <translation>Tranzakciós díj</translation>
+        <translation>Tariffa Transazione</translation>
     </message>
     <message>
         <location line="+16"/>
@@ -1786,7 +1786,7 @@ Indirizzo: %4
     <message>
         <location line="+3"/>
         <source>Generated coins must mature 120 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to &quot;not accepted&quot; and it won&apos;t be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Bisogna attendere 120 blocchi prima di spendere I hamradiocoin generati. Quando è stato generato questo blocco, è stato trasmesso alla rete per aggiungerlo alla catena di blocchi. Se non riesce a entrare nella catena, verrà modificato in &quot;non accettato&quot; e non sarà spendibile. Questo può accadere a volte, se un altro nodo genera un blocco entro pochi secondi del tuo.</translation>
+        <translation>Bisogna attendere 120 blocchi prima di spendere gli HamRadioCoin generati. Quando è stato generato questo blocco, è stato trasmesso alla rete per aggiungerlo alla catena di blocchi. Se non riesce a entrare nella catena, verrà modificato in &quot;non accettato&quot; e non sarà spendibile. Questo può accadere a volte, se un altro nodo genera un blocco entro pochi secondi del tuo.</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1826,7 +1826,7 @@ Indirizzo: %4
     <message numerus="yes">
         <location line="-35"/>
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Aperto per %n altro blocco</numerusform><numerusform>Aperto per altri %n blocchi</numerusform></translation>
+        <translation><numerusform>Aperto per %n altro(i) blocco(i)</translation>
     </message>
     <message>
         <location line="+70"/>
@@ -1872,7 +1872,7 @@ Indirizzo: %4
     <message numerus="yes">
         <location line="+57"/>
         <source>Open for %n more block(s)</source>
-        <translation><numerusform>Aperto per %n altro blocco</numerusform><numerusform>Aperto per altri %n blocchi</numerusform></translation>
+        <translation><numerusform>Aperto per %n altro(i) blocco(i)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1897,7 +1897,7 @@ Indirizzo: %4
     <message numerus="yes">
         <location line="+8"/>
         <source>Mined balance will be available when it matures in %n more block(s)</source>
-        <translation><numerusform>Il saldo generato sarà disponibile quando maturerà in %n altro blocco</numerusform><numerusform>Il saldo generato sarà disponibile quando maturerà in altri %n blocchi</numerusform></translation>
+        <translation><numerusform>Il saldo generato sarà disponibile quando maturerà in %n altro(i) blocco(i)</translation>
     </message>
     <message>
         <location line="+5"/>
@@ -1937,7 +1937,7 @@ Indirizzo: %4
     <message>
         <location line="+38"/>
         <source>(n/a)</source>
-        <translation>(N / a)</translation>
+        <translation>(n/a)</translation>
     </message>
     <message>
         <location line="+199"/>
@@ -2056,7 +2056,7 @@ Indirizzo: %4
     <message>
         <location line="+1"/>
         <source>Copy transaction ID</source>
-        <translation type="unfinished"/>
+        <translation>Copia ID transazione</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2147,7 +2147,7 @@ Indirizzo: %4
     <message>
         <location filename="../walletview.cpp" line="+42"/>
         <source>&amp;Export</source>
-        <translation type="unfinished"/>
+        <translation>&amp;Esporta</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2157,7 +2157,7 @@ Indirizzo: %4
     <message>
         <location line="+193"/>
         <source>Backup Wallet</source>
-        <translation type="unfinished"/>
+        <source>Backup Portafogli</source>
     </message>
     <message>
         <location line="+0"/>
@@ -2172,7 +2172,7 @@ Indirizzo: %4
     <message>
         <location line="+0"/>
         <source>There was an error trying to save the wallet data to the new location.</source>
-        <translation type="unfinished"/>
+        <translation>Errore durante il salvataggio dei dati nella nuova posizione</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2320,7 +2320,16 @@ If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
 for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin@foo.com
 </source>
-        <translation type="unfinished"/>
+        <translation>%s, devi impostare la rpcpassword nel file di configurazione:
+%s
+Si raccomanda di usare la seguente password generata a caso:
+rpcuser=hamradiocoinrpc
+rpcpassword=%s
+(non bisogna che ti ricordi questa password)
+Username and password NON DEVONO coincidere.
+Se il file non esiste, crealo con i permessi di sola lettura per il proprietario.
+Si raccomanda anche di impostare alertnotify per essere notificato in caso di problemi;
+per esempio: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Avviso&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2340,7 +2349,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+3"/>
         <source>Error: The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>Errore: la transazione è stata rifiutata. Ciò accade se alcuni hamradiocoin nel portamonete sono stati già spesi, ad esempio se è stata usata una copia del file wallet.dat e i hamradiocoin sono stati spesi dalla copia ma non segnati come spesi qui.</translation>
+        <translation>Errore: la transazione è stata rifiutata. Ciò accade se alcuni HamRadioCoin nel portamonete sono stati già spesi, ad esempio se è stata usata una copia del file wallet.dat e gli HamRadioCoin sono stati spesi dalla copia ma non segnati come spesi qui.</translation>
     </message>
     <message>
         <location line="+4"/>
@@ -2350,7 +2359,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+3"/>
         <source>Execute command when a relevant alert is received (%s in cmd is replaced by message)</source>
-        <translation type="unfinished"/>
+        <translation>Esegui comando quando un avviso urgente viene ricevuto (%s in cmd è sostituito da un messaggio)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2425,12 +2434,12 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+2"/>
         <source>Error initializing block database</source>
-        <translation type="unfinished"/>
+        <translation>Errore di inizializzazione database blocco</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Error initializing wallet database environment %s!</source>
-        <translation type="unfinished"/>
+        <translation>Errore di inizializzazione ambiente database del portafoglio %s!</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2475,12 +2484,12 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+1"/>
         <source>Failed to sync block index</source>
-        <translation type="unfinished"/>
+        <translation>Fallita sincronizzazione con indice di blocco</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write block index</source>
-        <translation type="unfinished"/>
+        <translation>Fallita scrittura indice di blocco</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2505,12 +2514,12 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+1"/>
         <source>Failed to write transaction index</source>
-        <translation type="unfinished"/>
+        <translation>Fallita scrittura indice della transazione</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Failed to write undo data</source>
-        <translation type="unfinished"/>
+        <translation>Fallita scrittura dati precedenti</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2520,7 +2529,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+1"/>
         <source>Generate coins (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Generare monete (predefinito: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2530,22 +2539,22 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+1"/>
         <source>How thorough the block verification is (0-4, default: 3)</source>
-        <translation type="unfinished"/>
+        <translation>Quanto approfondire la verifica del blocco (0-4, predefinito: 3)</translation>
     </message>
     <message>
         <location line="+19"/>
         <source>Not enough file descriptors available.</source>
-        <translation type="unfinished"/>
+        <translation>Non disponibile descrittore di file</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Rebuild block chain index from current blk000??.dat files</source>
-        <translation type="unfinished"/>
+        <translation>Ricostruire indiceblock chain dal file blk000??.dat</translation>
     </message>
     <message>
         <location line="+16"/>
-        <source>Set the number of threads to service RPC calls (default: 4)</source>
-        <translation type="unfinished"/>
+        <source>Impostare il numero di thread per servire le chiamate RPC (default: 4)</source>
+        <translation>Non disponibile descrittore di file</translation>
     </message>
     <message>
         <location line="+26"/>
@@ -2565,7 +2574,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="-76"/>
         <source>Set the number of script verification threads (up to 16, 0 = auto, &lt;0 = leave that many cores free, default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Impostare il numero di thread di verifica di script (fino a 16, 0 = auto, &lt;0 = lasciano molti nuclei liberi, default: 0)</translation>
     </message>
     <message>
         <location line="+77"/>
@@ -2580,17 +2589,17 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+1"/>
         <source>Invalid amount for -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Quantita non valida per -minrelaytxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Invalid amount for -mintxfee=&lt;amount&gt;: &apos;%s&apos;</source>
-        <translation type="unfinished"/>
+        <translation>Quantita non valida per -mintxfee=&lt;amount&gt;: &apos;%s&apos;</translation>
     </message>
     <message>
         <location line="+8"/>
         <source>Maintain a full transaction index (default: 0)</source>
-        <translation type="unfinished"/>
+        <translation>Mantenere un indice di transazione completo (default: 0)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2605,7 +2614,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+2"/>
         <source>Only accept block chain matching built-in checkpoints (default: 1)</source>
-        <translation type="unfinished"/>
+        <translation>Accettare solo controlli block chain corrispondenti a quello incassato (default: 1)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2615,7 +2624,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+2"/>
         <source>Output extra debugging information. Implies all other -debug* options</source>
-        <translation>Produci informazioni extra utili al debug. Implies all other -debug* options</translation>
+        <translation>Produci informazioni extra utili al debug. Implica tutte le altre opzioni -debug*</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2665,7 +2674,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+1"/>
         <source>Signing transaction failed</source>
-        <translation type="unfinished"/>
+        <translation>Firma fallita della transazione</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2680,27 +2689,27 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+4"/>
         <source>Transaction amount too small</source>
-        <translation type="unfinished"/>
+        <translation>Importo della transazione troppo piccolo</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Transaction amounts must be positive</source>
-        <translation type="unfinished"/>
+        <translation>Importo transazione deve essere positivo</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Transaction too large</source>
-        <translation type="unfinished"/>
+        <translation>Transazione troppo grande</translation>
     </message>
     <message>
         <location line="+7"/>
         <source>Use UPnP to map the listening port (default: 0)</source>
-        <translation>UPnP-használat engedélyezése a figyelő port feltérképezésénél (default: 0)</translation>
+        <translation>Usa UPnP per mappare le porte in ascolto (default: 0)</translation>
     </message>
     <message>
         <location line="+1"/>
         <source>Use UPnP to map the listening port (default: 1 when listening)</source>
-        <translation>UPnP-használat engedélyezése a figyelő port feltérképezésénél (default: 1 when listening)</translation>
+        <translation>Usa UPnP per mappare le porte in ascolto(default: 1 quando in ascolto)</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2726,7 +2735,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="+1"/>
         <source>You need to rebuild the databases using -reindex to change -txindex</source>
-        <translation type="unfinished"/>
+        <translation>È necessario ricostruire i database utilizzando -reindex per cambiare -txindex</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2736,8 +2745,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="-50"/>
         <source>Password for JSON-RPC connections</source>
-        <translation>Password per connessioni JSON-RPC
-</translation>
+        <translation>Password per connessioni JSON-RPC</translation>
     </message>
     <message>
         <location line="-67"/>
@@ -2892,7 +2900,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="-57"/>
         <source>Add a node to connect to and attempt to keep the connection open</source>
-        <translation>Elérendő csomópont megadása and attempt to keep the connection open</translation>
+        <translation>Aggiungi un nodo al quale connettersi e attendi che si apra la connessione</translation>
     </message>
     <message>
         <location line="-25"/>
@@ -2912,7 +2920,7 @@ for example: alertnotify=echo %%s | mail -s &quot;HamRadioCoin Alert&quot; admin
     <message>
         <location line="-52"/>
         <source>Cannot downgrade wallet</source>
-        <translation>Non è possibile retrocedere il wallet</translation>
+        <translation>Non è possibile fare il downgrade del wallet</translation>
     </message>
     <message>
         <location line="+3"/>
