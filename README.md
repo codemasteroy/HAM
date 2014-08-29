@@ -1,6 +1,6 @@
 HamRadioCoin 1.0-beta [HAM]
 
-Crypto Currency for all Ham Radio all around the world!
+Crypto Currency for all Ham Radio!
 
 SHA256D Proof of Work based on Bitcoin 0.8.99
 
