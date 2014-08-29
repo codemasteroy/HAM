@@ -123,7 +123,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location filename="../addressbookpage.cpp" line="-5"/>
         <source>These are your HamRadioCoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation type="unfinished"/>
+        <translation>Questi sono i tuoi indirizzi HamRadioCoin per inviare pagamenti. Controlla sempre importo e indirizzo prima di inviare monete.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -249,7 +249,7 @@ Questo prodotto include software sviluppato dal progetto OpenSSL per l&apos;uso 
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR SCOTCOINS&lt;/b&gt;!</source>
-        <translation>Attenzione: se si cifra il portamonete e si perde la frase d&apos;ordine, &lt;b&gt;SI PERDERANNO TUTTI I PROPRI ZETACOIN&lt;/b&gt;!</translation>
+        <translation>Attenzione: se si cifra il portamonete e si perde la frase d&apos;ordine, &lt;b&gt;SI PERDERANNO TUTTI I PROPRI HAMRADIOCOIN&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
