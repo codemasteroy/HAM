@@ -541,7 +541,11 @@ Platinama pagal MIT/X11 licenciją, kurią rasite faile COPYING arba http://www.
     <message numerus="yes">
         <location line="+141"/>
         <source>%n active connection(s) to HamRadioCoin network</source>
-        <translation><numerusform>%n HamRadioCoin tinklo aktyvus ryšys</numerusform><numerusform>%n HamRadioCoin tinklo aktyvūs ryšiai</numerusform><numerusform>%n HamRadioCoin tinklo aktyvūs ryšiai</numerusform></translation>
+        <translation>
+        	<numerusform>%n HamRadioCoin tinklo aktyvus ryšys</numerusform>
+        	<numerusform>%n HamRadioCoin tinklo aktyvūs ryšiai</numerusform>
+        	<numerusform>%n HamRadioCoin tinklo aktyvūs ryšiai</numerusform>
+    </translation>
     </message>
     <message>
         <location line="+22"/>
