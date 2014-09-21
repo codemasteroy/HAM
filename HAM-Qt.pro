@@ -1,7 +1,7 @@
 TEMPLATE = app
 TARGET = hamradiocoin-qt
 macx:TARGET = "HamRadioCoin-Qt"
-VERSION = 0.9.0
+VERSION = 1.0.1
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
@@ -390,6 +390,8 @@ macx:QMAKE_CFLAGS_THREAD += -pthread
 macx:QMAKE_LFLAGS_THREAD += -pthread
 macx:QMAKE_CXXFLAGS_THREAD += -pthread
 macx:QMAKE_INFO_PLIST = share/qt/Info.plist
+macx:QMAKE_CXXFLAGS += -msse2 -w  -stdlib=libstdc++
+macx:QMAKE_CFLAGS += -msse2 -stdlib=libstdc++ -w
 
 # Set libraries and includes at end, to use platform-defined defaults if not overridden
 INCLUDEPATH += $$BOOST_INCLUDE_PATH $$BDB_INCLUDE_PATH $$OPENSSL_INCLUDE_PATH $$QRENCODE_INCLUDE_PATH
